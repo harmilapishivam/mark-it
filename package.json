@@ -9,6 +9,7 @@
     "body-parser": "latest",
     "cookie-parser": "latest",
     "debug": "latest",
+    "dotenv": "^2.0.0",
     "express": "latest",
     "express-session": "latest",
     "mongoose": "latest",
@@ -18,7 +19,8 @@
     "passport-google-oauth": "latest",
     "passport-twitter": "latest",
     "pm2": "latest",
-    "serve-favicon": "latest"
+    "serve-favicon": "latest",
+    "swig": "^1.4.2"
   },
   "subdomain": "mark-it",
   "engines": {

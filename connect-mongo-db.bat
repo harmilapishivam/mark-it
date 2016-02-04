@@ -1,0 +1,1 @@
+mongod --dbpath "d:\code\personal\gitlab\mark-it\data" & pause
